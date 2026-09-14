@@ -46,6 +46,7 @@ Desarrollo y optimización de consultas y procedimientos SQL.
 Implementación de mejoras y correcciones.
 Pruebas y validación de funcionalidades.
 Soporte a usuarios y sistemas existentes.
+
 📂 Proyectos
 💰 Sistema de Control de Gastos
 
